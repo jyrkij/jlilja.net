@@ -1,0 +1,29 @@
+url: /
+permalink: pretty
+name: jlilja.net
+menu:
+    -
+        text: Etusivu
+        url: /
+    -
+        text: CV
+        url: /cv
+    -
+        text: Palvelut
+        url: /palvelut
+        children:
+            -
+                text: WWW-sivut
+                url: /palvelut/www-sivut
+            -
+                text: Mobiilisovellukset
+                url: /palvelut/mobiilisovellukset
+    -
+        text: Ohjelmat
+        url: /ohjelmat
+        children:
+            -
+                text: Koordinaattimuunnin
+                url: /ohjelmat/koordinaattimuunnin
+
+exclude: sass, config.rb, Procfile, Thumbs.db
