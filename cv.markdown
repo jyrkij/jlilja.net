@@ -8,45 +8,57 @@ layout: default
 **Tietotekniikan insinööri (AMK)** — Rovaniemen ammattikorkeakoulu, 2010 -- 2012  
 **Ylioppilas** — Lyseonpuiston lukio, 2008
 
+### Projektit
+
+#### [www.niemelantalo.fi](http://www.niemelantalo.fi/)
+
+B&B Niemeläntalon WWW-sivujen graafisen ilmeen konsultaatio sekä tekninen toteutus.
+
+#### [www.perhekotihokkanen.fi](http://www.perhekotihokkanen.fi/)
+
+Perhekoti Hokkanen Oy:n WWW-sivujen graafisen ilmeen konsultaatio sekä tekninen toteutus.
+
+#### [Koordinaattimuunnin](/ohjelmat/koordinaattimuunnin)
+
+Java-pohjainen ohjelma koordinaatistojen välisiin muunnoksiin. Tilaajina mm.
+Kemin kaupunki / maankäyttö- ja mittaustoimi sekä Tornion kaupunki.
+
 ### Työkokemus
 
 #### Web-kehittäjä, Focus Flow oy — 2012 — nykyhetki
 
 Työnkuvani web-kehittäjänä Focus Flowlla sisältää web-sivujen teknisen toteutuksen.
+Sivustoihin, joiden toteutuksessa olen ollut mukana, kuuluvat mm. seuraavat:
 
-#### Web-kehittäjä, Perhekoti Hokkanen oy -- 2012
+ - [360°](http://www.360astetta.fi)
+ - [recommended – digitaalisesti Sinun](http://digi.recommended.fi)
+ - [Käännöstoimisto Isis](http://www.isis.fi)
+ - [yhteiso.luontoon.fi](http://yhteiso.luontoon.fi)
+ - [Tiedekeskus Pilke](http://www.tiedekeskus-pilke.fi)
+ - [Tulevaisuus 2030](http://tulevaisuus.2030.fi)
+ - [Suomen luontokeskus Haltia](http://www.haltia.com)
+ - [julkaisut.metsa.fi](http://julkaisut.metsa.fi)
+ - [Lapin kalatalouskeskus](http://www.lapinkalatalouskeskus.fi)
+ - [NorBalWet](http://www.norbalwet.org)
+ - [Paljakka](http://www.paljakka.fi)
+ - [Snogear](http://www.snogear.fi)
+ - [Ryntäys Ensilumille 2012](http://www.ensilumi.fi)
+ - [Rovala](http://www.rovala.fi)
 
-[Perhekoti Hokkanen Oy:n WWW-sivujen](http://www.perhekotihokkanen.fi) tekninen toteutus.
-
-#### Freelance, Tornion kaupunki — 2012
-
-Koordinaattimuuntimen päivitys lisäämällä toiminnallisuutta ja
-korjaamalla virheitä.
-
-#### Freelance, Kemin kaupunki / maankäyttö- ja mittaustoimi — 2011
-
-Toteutin Kemin kaupungin maankäyttö- ja mittaustoimen toimeksiannosta
-ohjelman, jolla koordinaattien muunto järjestelmästä toiseen on sujuvaa
-ja nopeaa.
-
-#### Tutkimusavustaja, Lapin yliopisto / Taiteiden tiedekunta — 4.7. – 4.11.2011
+#### Tutkimusavustaja, Lapin yliopisto / Taiteiden tiedekunta — 2011
 
 Työskentelin tutkimusavustajana Arctic Art Camp -projektissa.
 Työtehtäviin kuului visuaalien ohjelmointi Processing-ympäristöllä sekä
-Arduino-prototyyppien suunnittelu ja toteutus.
+Arduino-prototyyppien suunnittelu ja toteutus. Toteutetut visuaalit löydät osoitteesta
+<https://github.com/jyrkij/Laserinne-Rovaniemi>.
 
-#### Toimistosihteeri/harjoittelija, Rovaniemen kaupunki / tilaliikelaitos, Rovaniemi — 3. – 30.6.2006, 4.6. – 13.7.2007, 14.4. – 31.8.2008, 1.6. – 31.8.2009, 26.4. – 15.8.2010, 2.5. – 1.7.2011
+#### Toimistosihteeri/harjoittelija, Rovaniemen kaupunki / tilaliikelaitos
 
 Töissä useina kesinä toimistosihteerin ja harjoittelijan tehtävissä.
 Tänä aikana olen oppinut mm. perustaidot Auto-CADistä ja edistyneitä
 taitoja Excelistä. Myös Haahtela Kiinteistötieto on tullut tutuksi.
 Ohjelmointityötä on sisältynyt Batch-skriptien sekä Javascriptin
 merkeissä.
-
-#### Websuunnittelija, Kultahakku Oy, Rovaniemi — 4. – 14.7.2005
-
-WWW-sivujen suunnittelu ja toteutus Kultahakku Oylle. Sivut ovat tämän
-jälkeen siirtyneet toisen henkilön päivitettäviksi ja suunnittelemiksi.
 
 ### Taidot
 
@@ -78,8 +90,6 @@ Logic/ProTools (perusteet)
 **Harrastuksia**: Äänitekniikka (sekä live- että studio-oloissa), valo-
 ja videokuvaus sekä editointi, Web-suunnittelu/-ohjelmointi sekä
 ohjelmointi yleensä, eri instrumenttien soittaminen  
-**Web-suunnittelu**: [http://elevate.kairatemppeli.fi][],
-[http://www.perhekotihokkanen.fi/][], [http://jlilja.net][]  
 **Valokuvaus**: [http://flickr.com/jyrkij][]
 
   [http://elevate.kairatemppeli.fi]: http://elevate.kairatemppeli.fi/
