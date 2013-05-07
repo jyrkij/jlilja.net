@@ -26,4 +26,4 @@ menu:
                 text: Koordinaattimuunnin
                 url: /ohjelmat/koordinaattimuunnin
 
-exclude: sass, config.rb, Procfile, Thumbs.db
+exclude: [ 'sass', 'config.rb', 'Procfile', 'Thumbs.db' ]

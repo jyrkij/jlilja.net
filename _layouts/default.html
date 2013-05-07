@@ -59,7 +59,9 @@
                         </header>
                         {{ content }}
                     </section>
-                    {% if page.url == "/index.html" %}
+                </section>
+                <aside>
+                    {% if page.url == "/" %}
                         <section>
                             <header>
                                 <h3>
@@ -76,20 +78,6 @@
                                     {{ post.content }}
                                 </article>
                             {% endfor %}
-                        </section>
-                    {% endif %}
-                </section>
-                <aside>
-                    {% if page.url == "/index.html" %}
-                        <section>
-                            <header>
-                                <h3>
-                                    Tietoja minusta
-                                </h3>
-                            </header>
-                            <p>Nimeni on Jyrki Lilja. Opiskelen tietotekniikkaa Rovaniemen ammattikorkeakoulussa. Valmistuminen häämöttää näillä näkymin vuoden 2012 joulukuussa. Valo- ja videokuvaus ovat lähellä sydäntäni, siksipä näillä sivuilla tulette näkemään paljon kuvia.</p>
-                            <p>Ympäristöistä OS X ja Windows ovat tutuimmat. Ohjelmointikielistä sujuvat mm. C, Objective-C, C++, C#, Java, Ruby, Python sekä WWW-sivustoihin liittyvät PHP, HTML5 ja CSS3.</p>
-                            <p>Käy seuraavaksi lukemassa CVni tai katsomassa kuinka voin palvella sinua.</p>
                         </section>
                     {% else %}
                         <nav>
