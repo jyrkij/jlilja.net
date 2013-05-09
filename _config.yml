@@ -16,6 +16,9 @@ menu:
                 text: WWW-sivut
                 url: /palvelut/www-sivut
             -
+                text: IT-tuki
+                url: /palvelut/it-tuki
+            -
                 text: Mobiilisovellukset
                 url: /palvelut/mobiilisovellukset
     -
