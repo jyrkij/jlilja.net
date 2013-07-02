@@ -542,3 +542,39 @@ header h1 a {
     display: none;
   }
 }
+form label {
+  *zoom: 1;
+  display: block;
+  margin: 10px 0;
+}
+form label:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+form label b {
+  width: 21.05263%;
+  float: left;
+  margin-right: 5.26316%;
+  display: inline;
+  text-align: right;
+}
+form label input, form label textarea {
+  width: 73.68421%;
+  float: right;
+  margin-right: 0;
+  *margin-left: -1em;
+  display: inline;
+}
+form .actions {
+  margin-left: 26.31579%;
+}
+
+.btn, input[type="submit"] {
+  background: #e46262;
+  color: #272735;
+  border: none;
+  padding: .3em .8em;
+  line-height: 1;
+  display: inline-block;
+}

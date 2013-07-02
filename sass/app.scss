@@ -202,3 +202,34 @@ header {
         }
     }
 }
+
+form {
+    label {
+        @include pie-clearfix;
+        display: block;
+        margin: 10px 0;
+
+        b {
+            @include span-columns(1, 4);
+            text-align: right;
+        }
+
+        input, textarea {
+            @include span-columns(3 omega, 4);
+        }
+    }
+
+    .actions {
+        @include push(1, 4);
+    }
+}
+
+
+.btn, input[type="submit"] {
+    background: $red;
+    color: $dark;
+    border: none;
+    padding: .3em .8em;
+    line-height: 1;
+    display: inline-block;
+}

@@ -28,5 +28,8 @@ menu:
             -
                 text: Koordinaattimuunnin
                 url: /ohjelmat/koordinaattimuunnin
+    -
+        text: Ota yhteyttä
+        url: /ota-yhteytta
 
 exclude: [ 'sass', 'config.rb', 'Procfile', 'Thumbs.db' ]
