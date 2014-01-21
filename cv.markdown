@@ -10,6 +10,10 @@ layout: default
 
 ### Projektit
 
+#### [www.miikakangasniemi.net](http://www.miikakangasniemi.net)
+
+Miika Kangasniemen portfoliosivuston tekninen toteutus sekä graafisen ilmeen konsultaatio.
+
 #### [www.niemelantalo.fi](http://www.niemelantalo.fi/)
 
 B&B Niemeläntalon WWW-sivujen graafisen ilmeen konsultaatio sekä tekninen toteutus.
