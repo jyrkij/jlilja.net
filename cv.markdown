@@ -32,22 +32,6 @@ Kemin kaupunki / maankäyttö- ja mittaustoimi sekä Tornion kaupunki.
 #### Web-kehittäjä, Focus Flow oy — 2012 — nykyhetki
 
 Työnkuvani web-kehittäjänä Focus Flowlla sisältää web-sivujen teknisen toteutuksen.
-Sivustoihin, joiden toteutuksessa olen ollut mukana, kuuluvat mm. seuraavat:
-
- - [360°](http://www.360astetta.fi)
- - [recommended – digitaalisesti Sinun](http://digi.recommended.fi)
- - [Käännöstoimisto Isis](http://www.isis.fi)
- - [yhteiso.luontoon.fi](http://yhteiso.luontoon.fi)
- - [Tiedekeskus Pilke](http://www.tiedekeskus-pilke.fi)
- - [Tulevaisuus 2030](http://tulevaisuus.2030.fi)
- - [Suomen luontokeskus Haltia](http://www.haltia.com)
- - [julkaisut.metsa.fi](http://julkaisut.metsa.fi)
- - [Lapin kalatalouskeskus](http://www.lapinkalatalouskeskus.fi)
- - [NorBalWet](http://www.norbalwet.org)
- - [Paljakka](http://www.paljakka.fi)
- - [Snogear](http://www.snogear.fi)
- - [Ryntäys Ensilumille 2012](http://www.ensilumi.fi)
- - [Rovala](http://www.rovala.fi)
 
 #### Tutkimusavustaja, Lapin yliopisto / Taiteiden tiedekunta — 2011
 
