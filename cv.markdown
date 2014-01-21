@@ -50,7 +50,7 @@ Sivustoihin, joiden toteutuksessa olen ollut mukana, kuuluvat mm. seuraavat:
 Työskentelin tutkimusavustajana Arctic Art Camp -projektissa.
 Työtehtäviin kuului visuaalien ohjelmointi Processing-ympäristöllä sekä
 Arduino-prototyyppien suunnittelu ja toteutus. Toteutetut visuaalit löydät osoitteesta
-<https://github.com/jyrkij/Laserinne-Rovaniemi>.
+[https://github.com/jyrkij/Laserinne-Rovaniemi](https://github.com/jyrkij/Laserinne-Rovaniemi).
 
 #### Toimistosihteeri/harjoittelija, Rovaniemen kaupunki / tilaliikelaitos
 
