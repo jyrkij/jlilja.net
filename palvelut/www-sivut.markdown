@@ -9,13 +9,13 @@ Onko yrityksesi WWW-sivujen tarpeessa? Toteutan kaikenlaiset WWW-sivut ammattita
 
 Sisältää yhden sivun, ns. käyntikorttisivun. Sopii esim. pienyrittäjän infosivuksi.
 
-Hinta 500 €.
+Hinta 900 €.
 
 ### Staattiset pienet sivut
 
 Sisältää maksimissaan 5 sivua. Sopii esim. pienyrittäjille, jotka haluavat kertoa enemmän, mitä yhdelle sivulle mahtuu.
 
-Hinta 800 €.
+Hinta 1200 €.
 
 ### Dynaamiset sivut
 
