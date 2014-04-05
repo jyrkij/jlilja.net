@@ -33,5 +33,6 @@ menu:
         url: /ota-yhteytta
 
 exclude: [ 'sass', 'config.rb', 'Procfile', 'Thumbs.db' ]
+markdown: kramdown
 prose:
     media: assets
