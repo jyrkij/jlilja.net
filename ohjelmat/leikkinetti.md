@@ -1,3 +1,8 @@
+---
+title: Leikkinetti
+layout: default
+---
+
 # Leikkinetti
 
 [Leikkinetti-palvelu](https://leikkinetti.fi) on päiväkodeille suunniteltu työkalu. Palvelu pitää sisällään niin hoitajien ja vanhempien välistä kommunikointia tukevia kuin toiminnan suunnittelemista helpottavia ominaisuuksia.
