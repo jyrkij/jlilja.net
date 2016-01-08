@@ -26,6 +26,9 @@ menu:
         url: /ohjelmat
         children:
             -
+                text: Leikkinetti
+                url: /ohjelmat/leikkinetti
+            -
                 text: Koordinaattimuunnin
                 url: /ohjelmat/koordinaattimuunnin
     -
